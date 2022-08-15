@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b9798823.css",
+    "main.js": "/static/js/main.40a185e6.js",
+    "static/js/787.1ed0c42c.chunk.js": "/static/js/787.1ed0c42c.chunk.js",
+    "static/media/brandon_byrne.jpg": "/static/media/brandon_byrne.7645fd953e08f4d41b4c.jpg",
+    "index.html": "/index.html",
+    "main.b9798823.css.map": "/static/css/main.b9798823.css.map",
+    "main.40a185e6.js.map": "/static/js/main.40a185e6.js.map",
+    "787.1ed0c42c.chunk.js.map": "/static/js/787.1ed0c42c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b9798823.css",
+    "static/js/main.40a185e6.js"
+  ]
+}
